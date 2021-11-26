@@ -1,0 +1,17 @@
+Dialog 1
+--------
+
+1). Custom dialog layout.
+2). AppCompact Buttons
+3). Res/Values/Themes --> Custom DialogStyle
+4). Dialog() constructor
+5). dialog.getWindow --> setBackgroundDrawableRes
+
+
+Dialog 2
+--------
+1). Custom dialog layout.
+2). AppCompact Buttons
+3). Res/Values/Themes --> Custom DialogAnimation
+4). dialog.getWindow --> setBackgroundDrawableRes
+5). dialog.getWindow --> setWindowAnimations

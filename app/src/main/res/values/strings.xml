@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Dialogs</string>
+    <string name="shop">Shop</string>
+    <string name="buy">Buy</string>
+    <string name="check_any_cables_and_reboot_any_routers_modems_or_other_network_devices_you_may_be_using">Check any cables and reboot any routers, modems, or other network devices you may be using.</string>
+    <string name="go_to_home">Go To Home</string>
+    <string name="show_dialog_1">show Dialog 1</string>
+    <string name="show_dialog_2">Show Dialog 2</string>
+    <string name="warning">Warning !!!</string>
+    <string name="you_can_not_access_this_file">You can not access this file</string>
+    <string name="show_dialog_3">Show Dialog 3</string>
+    <string name="show_dialog_4">Show Dialog 4</string>
+    <string name="show_dialog_5">Show Dialog 5</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="show_dialog_6">Show Dialog 6</string>
+
+
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+
+    <string-array name="genders">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Both</item>
+        <item>I don\'t know</item>
+    </string-array>
+</resources>
